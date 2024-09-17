@@ -1,6 +1,6 @@
 # Lab2
 Grade EMRN  
-Due: Next Tuesday
+Due: Before the next lab
 
 ## Purpose 
 
@@ -46,32 +46,39 @@ As an example, running the program with the numbers provided above might look li
 6. Remember to perform pair programming. When ½ the code is written, or ½ of class is over, switch drivers.
 
 ## Process 
-
+0.  Notify your instructor if you find any discrepancies on the `README.md` file.    
 1.	Make sure you understand the problem you are being asked to solve. A key aspect to understanding the problem is figuring out what exactly you need to calculate.
-    * **HINT:** You will need to figure out how many births, deaths, and immigrants have joined the country in a given year. You may find it useful to calculate how many seconds are in a year, store it in a variable, and then use that value when necessary in your calculations. 
-3.	Write a set of 5 test cases in testcases.xlsx – you should include the example from above as one of your test cases. Think back to last week’s lab for the other types of test cases you should include. Don't forget that a population may not always increase over time. Follow the same format as Lab 1’s test cases.
-4.	Write an algorithm for your calculations in algorithm.txt. Make sure you follow all requirements. Use a calculator to test your algorithm with the test case values to make sure it solves the problem correctly. Show your algorithm to the lab instructor and get his/her approval BEFORE you start writing code. 
-
-5.	Create a new Python file, and follow your approved algorithm to write your code. You should assume that all input are floats.
+2. **HINT:** You will need to figure out how many births, deaths, and immigrants have joined the country in a given year. You may find it useful to calculate how many seconds are in a year, store it in a variable, and then use that value when necessary in your calculations. 
+3.	Write a set of 5 test cases in `test_cases.xlsx` – you should include the example from above as one of your test cases. Think back to last week’s lab for the other types of test cases you should include. Don't forget that a population may not always increase over time. Follow the same format as Lab 1’s test cases.
+4.	Write an algorithm for your calculations in `algorithm.docx`. Make sure you follow all requirements. Use a calculator to test your algorithm with the test case values to make sure it solves the problem correctly. Show your algorithm to the lab instructor and get his/her approval BEFORE you start writing code.
+5.	Use the `main.py` Python file, and follow your approved algorithm to write your code. You should assume that all input are floats.
 6.	Fix syntax errors: Run your program and fix any errors that appear.
 7.	Test: Once your code runs and you think it’s complete, test it using your test cases -- run, give the input as input, and see if you get the right output.
 8.	Make sure you’ve created a human readable essay (i.e. your program). Did you follow the code readability guidelines from Class Notes #3? If not, fix your code so that it is readable. You should have comments above each chunk of code!
 9.	Make sure you’ve used good Usability – have you followed the usability guidelines from the HCI class (Notes #5) for your input and output?
-10.	Include an updated version of the intro comments from Lab 0 at the very top of your Python file. Almost every line should change! 
+10.	Include an updated version of the intro comments from `Lab 0` at the very top of your Python file. Almost every line should change! 
 11.	Once you are done in lab, make sure you commit and push or your instructor won't be able to view it.
 
+## What to Submit in GitHub:
 
-## What to Submit:
+1. Completed `main.py` file  
+2. `algorithm.docx`
+3. `RD1.docx` -> Reflection for Drive 1
+4. `RD2.docx` -> Reflection for Drive 2
+5. An Excel file with your test cases.  
+    - Edit the `test_cases.xlsx` file with Excel software 
+    - If it can open then ok. Otherwise
+      - Right click on `test_cases.xlsx` -> Open In -> Associated Application
 
-1.    In GitHub:
+An individual reflection on the lab (with at least 300 words), 
+answering the following questions:
+  1.  How was the experience working with your partner?   
+  2.  What did you learn in this lab?   
+  3.  How did you follow the first 3 rules of programming?   
 
-    1. Completed main.py file  
-    2. algorithm.txt 
-    3. test_cases.xl
- 
-2. To Moodle in the Lab1 assignment: An individual reflection writeup on the lab (range 200-400 words), answering the following questions:  
-   
-Type the Reflection INSIDE The Moodle Submission Box using the following format and addressing the following questions:
+**As a reminder, reflections count toward your participation grade.**
+
+Type the Reflection INSIDE The RD word files format and addressing the following questions:
 
  - Objective:
    What were you supposed to learn/accomplish?
@@ -89,5 +96,3 @@ Type the Reflection INSIDE The Moodle Submission Box using the following format 
    Any key takeaways?
    Do you think you learned what you were supposed to learn for this lab?
    What was it like working with your partner?
-
-As a reminder, reflections count toward your participation grade.
