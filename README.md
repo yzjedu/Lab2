@@ -53,8 +53,8 @@ As an example, running the program with the numbers provided above might look li
 4.	Write an algorithm for your calculations in `algorithm.docx`. Make sure you follow all requirements. Use a calculator to test your algorithm with the test case values to make sure it solves the problem correctly. Show your algorithm to the lab instructor and get his/her approval BEFORE you start writing code.
 5.	Use the `main.py` Python file, and follow your approved algorithm to write your code. You should assume that all input are floats.
 6.	Fix syntax errors: Run your program and fix any errors that appear.
-7.	Test: Once your code runs and you think it’s complete, test it using your test cases -- run, give the input as input, and see if you get the right output.
-8.	Make sure you’ve created a human readable essay (i.e. your program). Did you follow the code readability guidelines from Class Notes #3? If not, fix your code so that it is readable. You should have comments above each chunk of code!
+7.	Test: Once your code runs, and you think it’s complete, test it using your test cases -- run, give the input as input, and see if you get the right output.
+8.	Make sure you’ve created a human-readable essay (i.e. your program). Did you follow the code readability guidelines from Class Notes #3? If not, fix your code so that it is readable. You should have comments above each chunk of code!
 9.	Make sure you’ve used good Usability – have you followed the usability guidelines from the HCI class (Notes #5) for your input and output?
 10.	Include an updated version of the intro comments from `Lab 0` at the very top of your Python file. Almost every line should change! 
 11.	Once you are done in lab, make sure you commit and push or your instructor won't be able to view it.
@@ -63,36 +63,32 @@ As an example, running the program with the numbers provided above might look li
 
 1. Completed `main.py` file  
 2. `algorithm.docx`
-3. `RD1.docx` -> Reflection for Drive 1
-4. `RD2.docx` -> Reflection for Drive 2
-5. An Excel file with your test cases.  
+3. An Excel file with your test cases.  
     - Edit the `test_cases.xlsx` file with Excel software 
     - If it can open then ok. Otherwise
       - Right click on `test_cases.xlsx` -> Open In -> Associated Application
-
-An individual reflection on the lab (with at least 300 words), 
-answering the following questions:
-  1.  How was the experience working with your partner?   
-  2.  What did you learn in this lab?   
-  3.  How did you follow the first 3 rules of programming?   
+4. `RD1.docx` -> Reflection for Drive 1
+5. `RD2.docx` -> Reflection for Drive 2
 
 **As a reminder, reflections count toward your participation grade.**
 
-Type the Reflection INSIDE The RD word files format and addressing the following questions:
+Type the Reflection INSIDE the respective Word file and addressing the following questions:
 
  - Objective:
-   What were you supposed to learn/accomplish?
+   - What were you supposed to learn/accomplish?
 
  - Procedure:
-   What steps were followed and what techniques did you use to solve the problem?
-   What were the Key concepts explored?
+   - What steps were followed and what techniques did you use to solve the problem?
+   - What were the Key concepts explored?
 
  - Results:
-   Did your results match what you expected to get? Did you try using various test cases, or extreme test cases?
+   - Did your results match what you expected to get? 
+   - Did you try using various test cases, or extreme test cases?
   
  - Reflection:
-   What challenges did you encounter?
-   Did you overcome them, and how?
-   Any key takeaways?
-   Do you think you learned what you were supposed to learn for this lab?
-   What was it like working with your partner?
+   - What challenges did you encounter? 
+   - How did you follow the first 3 rules of programming?
+   - Did you overcome them, and how? 
+   - Any key takeaways? 
+   - Do you think you learned what you were supposed to learn for this lab? 
+   - What was it like working with your partner?
